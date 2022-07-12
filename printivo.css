@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: myfont;
-    src: url(sfprofont/SFPRODISPLAYMEDIUM.OTF);
+    src: url(SFPRODISPLAYMEDIUM.OTF);
 }
 
 @font-face {
     font-family: ptext;
-    src: url(sfprofont/displayregular.OTF);
+    src: url(displayregular.OTF);
 }
 
 * {
@@ -152,7 +152,7 @@ button.scrolll {
 .headercontent {
     padding: 0 0 0 110px;
     width: 95%;
-    background: url(images/Card3_n9kqin.webp);
+    background: url(Card3_n9kqin.webp);
     background-color: #ece8d9;
     margin: auto;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@ button.scrolll {
 
 /*CARD 1*/
 .cardbody .cardcontent .cardd .ch1 {
-    background-image: url(images/1440201227_two-sided-business-cards-by-printivo.png);
+    background-image: url(1440201227_two-sided-business-cards-by-printivo.png);
     height: 14rem;
     background-size: 125%;
     background-repeat: no-repeat;
@@ -329,12 +329,12 @@ button.scrolll {
 .cardbody .cardcontent .ch1:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1440201227_two-sided-business-cards-by-printivo.png);
+    background-image: url(1440201227_two-sided-business-cards-by-printivo.png);
 }
 
 /*CARD 2*/
 .cardbody .cardcontent .ch2 {
-    background-image: url(images/1572522725_flyer-1sided.png);
+    background-image: url(1572522725_flyer-1sided.png);
     height: 14rem;
     background-size: 125%;
     background-repeat: no-repeat;
@@ -344,12 +344,12 @@ button.scrolll {
 .cardbody .cardcontent .ch2:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1572522725_flyer-1sided.png);
+    background-image: url(1572522725_flyer-1sided.png);
 }
 
 /*CARD 3*/
 .cardbody .cardcontent .ch3 {
-    background-image: url(images/1440220358_Round\ Stickers.png);
+    background-image: url(1440220358_Round\ Stickers.png);
     height: 14rem;
     background-size: 130%;
     background-repeat: no-repeat;
@@ -359,12 +359,12 @@ button.scrolll {
 .cardbody .cardcontent .ch3:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1440220358_Round\ Stickers.png);
+    background-image: url(1440220358_Round\ Stickers.png);
 }
 
 /*CARD 4*/
 .cardbody .cardcontent .ch4 {
-    background-image: url(images/1438623577_simple\ Mugs.png);
+    background-image: url(1438623577_simple\ Mugs.png);
     height: 14rem;
     background-size: 125%;
     background-repeat: no-repeat;
@@ -374,13 +374,13 @@ button.scrolll {
 .cardbody .cardcontent .ch4:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1438623577_simple\ Mugs.png);
+    background-image: url(1438623577_simple\ Mugs.png);
 }
 
 /*CARD 5*/
 
 .cardbody .cardcontent .ch5 {
-    background-image: url(images/1439790190_postcard.jpg);
+    background-image: url(1439790190_postcard.jpg);
     height: 14rem;
     background-size: 125%;
     background-repeat: no-repeat;
@@ -390,13 +390,13 @@ button.scrolll {
 .cardbody .cardcontent .ch5:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1439790190_postcard.jpg);
+    background-image: url(1439790190_postcard.jpg);
 }
 
 /*CARD 6*/
 
 .cardbody .cardcontent .ch6 {
-    background-image: url(images/1446183154_big\ rollup\ banner.png);
+    background-image: url(1446183154_big\ rollup\ banner.png);
     height: 14rem;
     background-size: 120%;
     background-repeat: no-repeat;
@@ -406,12 +406,12 @@ button.scrolll {
 .cardbody .cardcontent .ch6:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1446183154_big\ rollup\ banner.png);
+    background-image: url(1446183154_big\ rollup\ banner.png);
 }
 
 /*CARD 7*/
 .cardbody .cardcontent .ch7 {
-    background-image: url(images/1572259118_product-5-\(1\).png);
+    background-image: url(1572259118_product-5-\(1\).png);
     height: 14rem;
     background-size: 110%;
     background-repeat: no-repeat;
@@ -421,14 +421,14 @@ button.scrolll {
 .cardbody .cardcontent .ch7:hover {
     transition: all 0.2s ease-out;
     background-size: 120%;
-    background-image: url(images/1572259118_product-5-\(1\).png);
+    background-image: url(1572259118_product-5-\(1\).png);
 }
 
 /*CARD 8*/
 
 
 .cardbody .cardcontent .ch8 {
-    background-image: url(images/1473167305_trifold-brochure-printing.png);
+    background-image: url(1473167305_trifold-brochure-printing.png);
     height: 14rem;
     background-size: 132%;
     background-repeat: no-repeat;
@@ -438,12 +438,12 @@ button.scrolll {
 .cardbody .cardcontent .ch8:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1473167305_trifold-brochure-printing.png);
+    background-image: url(1473167305_trifold-brochure-printing.png);
 }
 
 /*CARD 9*/
 .cardbody .cardcontent .ch9 {
-    background-image: url(images/1456215784_12.png);
+    background-image: url(1456215784_12.png);
     height: 14rem;
     background-size: 120%;
     background-repeat: no-repeat;
@@ -453,12 +453,12 @@ button.scrolll {
 .cardbody .cardcontent .ch9:hover {
     transition: all 0.2s ease-out;
     background-size: 140%;
-    background-image: url(images/1456215784_12.png);
+    background-image: url(1456215784_12.png);
 }
 
 /*CARD 10*/
 .cardbody .cardcontent .ch10 {
-    background-image: url(images/1485151940_White-tshirt.png);
+    background-image: url(1485151940_White-tshirt.png);
     height: 14rem;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -468,12 +468,12 @@ button.scrolll {
 .cardbody .cardcontent .ch10:hover {
     transition: all 0.2s ease-out;
     background-size: 110%;
-    background-image: url(images/1485151940_White-tshirt.png);
+    background-image: url(1485151940_White-tshirt.png);
 }
 
 /*CARD 11*/
 .cardbody .cardcontent .ch11 {
-    background-image: url(images/1572258123_product-3-\(1\).png);
+    background-image: url(1572258123_product-3-\(1\).png);
     height: 14rem;
     background-size: 110%;
     background-repeat: no-repeat;
@@ -483,12 +483,12 @@ button.scrolll {
 .cardbody .cardcontent .ch11:hover {
     transition: all 0.2s ease-out;
     background-size: 120%;
-    background-image: url(images/1572258123_product-3-\(1\).png);
+    background-image: url(1572258123_product-3-\(1\).png);
 }
 
 /*CARD 12*/
 .cardbody .cardcontent .ch12 {
-    background-image: url(images/1607424257_63f28e7a-da1d-4685-a297-964e186a2170.jpeg);
+    background-image: url(1607424257_63f28e7a-da1d-4685-a297-964e186a2170.jpeg);
     height: 14rem;
     background-size: 110%;
     background-repeat: no-repeat;
@@ -498,14 +498,14 @@ button.scrolll {
 .cardbody .cardcontent .ch12:hover {
     transition: all 0.2s ease-out;
     background-size: 120%;
-    background-image: url(images/1607424257_63f28e7a-da1d-4685-a297-964e186a2170.jpeg);
+    background-image: url(1607424257_63f28e7a-da1d-4685-a297-964e186a2170.jpeg);
 }
 
 /*ROW 2 CARDS*/
 
 /*CARD 13*/
 .cardbody .cardcontent .ch13 {
-    background-image: url(images/1473159158_Christmas-card-for-this-wonderful-season.png);
+    background-image: url(1473159158_Christmas-card-for-this-wonderful-season.png);
     height: 14rem;
     background-size: 140%;
     background-repeat: no-repeat;
@@ -515,12 +515,12 @@ button.scrolll {
 .cardbody .cardcontent .ch13:hover {
     transition: all 0.2s ease-out;
     background-size: 150%;
-    background-image: url(images/1473159158_Christmas-card-for-this-wonderful-season.png);
+    background-image: url(1473159158_Christmas-card-for-this-wonderful-season.png);
 }
 
 /*CARD 14*/
 .cardbody .cardcontent .ch14 {
-    background-image: url(images/1473165427_stickers.png);
+    background-image: url(1473165427_stickers.png);
     height: 14rem;
     background-size: 142%;
     background-repeat: no-repeat;
@@ -530,7 +530,7 @@ button.scrolll {
 .cardbody .cardcontent .ch14:hover {
     transition: all 0.2s ease-out;
     background-size: 150%;
-    background-image: url(images/1473165427_stickers.png);
+    background-image: url(1473165427_stickers.png);
 }
 
 /*BRAND*/
@@ -834,8 +834,11 @@ footer .footer1 h4 {
 
 }
 
+
+
 footer .footer1 ul li {
     list-style: none;
+
 }
 
 footer .footer1 ul li a {
@@ -889,7 +892,7 @@ footer .fourth-foot .fourth-foot3 h4 {
     .cardbody {
         width: 0;
         width: 95%;
-        box-sizing: ;
+        /* box-sizing: ; */
     }
 
     .brand {
@@ -1273,6 +1276,15 @@ footer .fourth-foot .fourth-foot3 h4 {
         padding: 0 2px 0 2px;
     }
 
+    .footer1 {
+        padding-left: 0;
+    }
+
+    .footer1 .row {
+        width: 100%;
+        padding-left: 0;
+        margin: 0;
+    }
 
 }
 
